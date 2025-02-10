@@ -1,6 +1,5 @@
 import Link from 'next/link';
 import styles from '../styles/Navbar.module.css';
-import Layout from '../app/layout';
 
 
 export default function Navbar() {

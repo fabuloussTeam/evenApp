@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import Layout from '../components/Layout';
+import Layout from '../app/layout';
 import styles from '../styles/Contact.module.css';
 
 export default function Contact() {

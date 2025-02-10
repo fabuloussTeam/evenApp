@@ -1,21 +1,13 @@
-import "./globals.css";
-import  Home  from "../pages/index";
+import Navbar from '../components/Navbar';
+import Footer from '../components/Footer';
+import styles from '../styles/Layout.module.css';
 
-
-
-
-export default function RootLayout({ children }) {
-	return (
-		<html lang="en">
-			<body
-				className={`antialiased`}
-			>
-				<div>
-					<p>Je suis un entete</p>
-				</div>
-				<div className="content">{children}</div>
-				<div className="footer">Footer</div>
-			</body>
-		</html>
-	);
+export default function Layout({ children }) {
+  return (
+    <div className={styles.container}>
+      <Navbar />
+      <main className={styles.main}>{children}</main>
+    
+    </div>
+  );
 }

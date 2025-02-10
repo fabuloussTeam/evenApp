@@ -5,8 +5,6 @@ import styles from '../styles/Home.module.css';
 import EventCard from '../components/EventCard';
 import events from '../data/events.json'; // Importez les données des événements
 
-
-
 export default function Home() {
     return (
       <Layout>
