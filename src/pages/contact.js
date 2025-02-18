@@ -10,8 +10,9 @@ export default function Contact() {
         <meta name="description" content="Contactez-nous pour plus d'informations." />
       </Head>
       <div className={styles.container}>
+      
         <h1>Contactez-nous</h1>
-        <p>Pour toute question, n'hésitez pas à nous contacter.</p>
+        
       </div>
     </Layout>
   );

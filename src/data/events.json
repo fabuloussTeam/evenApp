@@ -6,7 +6,7 @@
       "description": "Rejoignez-nous pour une soirée de rock avec des groupes internationaux. Ambiance garantie !",
       "date": "2025-03-15",
       "image": "/images/event1.jpg",
-      "images": ["/images/event1.jpg", "/images/event1-2.jpg"]
+      "images": ["/images/event2.jpg", "/images/event1-2.jpg"]
     },
     {
       "id": 2,
@@ -14,17 +14,17 @@
       "shortDescription": "Détendez-vous avec notre atelier de yoga.",
       "description": "Venez découvrir les bienfaits du yoga avec nos instructeurs certifiés.",
       "date": "2025-04-10",
-      "image": "/images/event2.jpg",
-      "images": ["/images/event2.jpg", "/images/event2-2.jpg"]
+      "image": "/images/event4.jpg",
+      "images": ["/images/event4 (2).jpg", "/images/event4-1.jpg"]
     },
     {
         "id": 3,
         "name": "Festival de Cuisine",
         "shortDescription": "Découvrez des saveurs du monde entier.",
         "description": "Un festival gastronomique avec des chefs renommés et des plats exquis.",
-        "date": "2025-05-20",
+        "date": "2025-02-26",
         "image": "/images/event3.jpg",
-        "images": ["/images/event3.jpg", "/images/event3-2.jpg"]
+        "images": ["/images/event3-6.jpg", "/images/event3-3.jpg"]
       },
       {
         "id": 4,
@@ -33,6 +33,6 @@
         "description": "Venez découvrir les bienfaits du yoga avec nos instructeurs certifiés.",
         "date": "2025-01-10",
         "image": "/images/event2.jpg",
-        "images": ["/images/event4.jpg", "/images/event4-2.jpg"]
+        "images": ["/images/event3-2.jpg", "/images/event2-2.jpg"]
       }
   ]
