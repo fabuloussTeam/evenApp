@@ -11,8 +11,8 @@ export default function Contact() {
       </Head>
       <div className={styles.container}>
         <h1>Contactez-nous</h1>
-        <p>Pour toute question, n'hésitez pas à nous contacter.</p>
-      </div>
+        <p>Cours de programmation web avancee</p>
+        </div>
     </Layout>
   );
 }

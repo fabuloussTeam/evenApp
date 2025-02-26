@@ -32,7 +32,7 @@
         "shortDescription": "Détendez-vous avec notre atelier de yoga.",
         "description": "Venez découvrir les bienfaits du yoga avec nos instructeurs certifiés.",
         "date": "2025-01-10",
-        "image": "/images/event2.jpg",
-        "images": ["/images/event4.jpg", "/images/event4-2.jpg"]
+        "image": "/images/event4.jpg",
+        "images": ["/images/event4-1.jpg", "/images/event4-2.jpg"]
       }
   ]

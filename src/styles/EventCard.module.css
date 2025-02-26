@@ -3,6 +3,7 @@
     border-radius: 8px;
     overflow: hidden;
     transition: transform 0.2s;
+    text-decoration: none;
   }
   
   .card:hover {
@@ -18,16 +19,23 @@
   .title {
     font-size: 1.2rem;
     margin: 0.5rem;
+    text-decoration: none;
   }
   
   .description {
     font-size: 0.9rem;
     margin: 0.5rem;
-    color: #555;
+    color: #312f2f;
+    text-decoration: none;
   }
   
   .date {
     font-size: 0.8rem;
     margin: 0.5rem;
     color: #777;
+  }
+
+  .card p {
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 1em;
   }
